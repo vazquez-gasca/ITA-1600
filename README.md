@@ -1,4 +1,4 @@
-#PLC IIoT ITA-1600
+# PLC IIoT ITA-1600
 Un Controlador Lógico Programable de Hardware Abierto con Conectividad Inalámbrica
 Este proyecto presenta el diseño y la implementación del PLC IIoT ITA-1600, un controlador lógico programable (PLC) de hardware abierto diseñado para satisfacer las demandas de la Industria 4.0 y servir como plataforma educativa y de investigación.
 
